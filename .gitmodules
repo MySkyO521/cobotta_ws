@@ -1,0 +1,3 @@
+[submodule "src/denso_cobotta_ros"]
+	path = src/denso_cobotta_ros
+	url = git@github.com:DENSORobot/denso_cobotta_ros.git
